@@ -1,6 +1,5 @@
 import streamlit as st
 import time
-import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
@@ -26,5 +25,10 @@ st.dataframe(data)
 
 x = np.linspace(0, 10, 100)
 y = np.sin(x)
-plt.plot(x, y)
-st.pyplot(plt)
+
+data = pd.DataFrame({
+    'x': x,
+    'y': y
+})
+
+st.line_chart(data.set_index('x'))
