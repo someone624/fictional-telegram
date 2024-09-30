@@ -20,7 +20,7 @@
 - Streamlit
 
 ## Contributing
-- No, you can't contribute
+- Uhhhhh
 
 ## License
 - This is under MIT license, see the [LICENSE](LICENSE) file for details
