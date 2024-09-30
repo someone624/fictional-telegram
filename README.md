@@ -15,6 +15,7 @@
 ## Installation
 ### Why would you install this
 - Why
+- You could for streamlit but this gives an error so dont
 
 ## Usage
 - Streamlit
