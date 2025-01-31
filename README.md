@@ -35,6 +35,7 @@
 - Text
 - Input
 - Charts
+- Errors
 
 ## Screenshots
 - I don't have screenshots
