@@ -4,10 +4,11 @@ import numpy as np
 import pandas as pd
 
 st.title('hello world')
-time.sleep(5)
+time.sleep(2)
 st.title('pip install streamlit')
-time.sleep(5)
+time.sleep(2)
 st.title('streamlit hello')
+time.sleep(2)
 
 st.write('Hello, World')
 
